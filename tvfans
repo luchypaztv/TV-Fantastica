@@ -18,4 +18,6 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 https://ssh101-fl.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1,CN City
 https://envivo.cncity.live/hls/cncity.m3u8
-#EXTINF:-1,
+#EXTINF:-1,ACS Network
+https://5790d294af2dc.streamlock.net:443/acsnetwork/acsnetwork/chunklist_w1556043039.m3u8
+
