@@ -4,8 +4,8 @@
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Kanade TV
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
-#EXTINF:-1,Magic Spin
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
+#EXTINF:-1,Ninja Z
+https://mitv.zplay.cl/NinjaZ/index.m3u8
 #EXTINF:-1,ZTV
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,ZTV Anime
@@ -24,4 +24,29 @@ https://envivo.cncity.live/hls/cncity.m3u8
 https://5790d294af2dc.streamlock.net:443/acsnetwork/acsnetwork/chunklist_w1556043039.m3u8
 #EXTINF:-1,Dreiko TV
 https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,Energeek Retro
+https://wifispeed.trapemn.tv:1936/energeek/retro-publico-temp/chunks.m3u8?nimblesessionid=122273955
+#EXTINF:-1,Energeek Fan
+https://wifispeed.trapemn.tv:1936/energeek/fan-publico-temp/chunks.m3u8?nimblesessionid=122274342
+#EXTINF:-1,Kanade TV
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8?session=fNDgYXHExNhopSUj9j6PsB
+#EXTINF:-1,Sur TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/surtv/livestream0/chunks.m3u8?dpssid=b2138410769067d78240c799a&sid=ba5t1l1xb269215571067d78240c7998&ndvc=1
+#EXTINF:-1,Suyai TV
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=2095807539&e=s&n=9559279616673023&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=6d2d882hpabe&i=0&lid=1e1w5l6dwt0g&lsa=read&mt=1&pbd=1&pbr=1&pgi=1rgell6ih3mj&ph=0&pii=0&pl=652&plc=1&pli=l8jwxq1il0bj&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=NeoTV%20-%20Suyai%20Televisi%C3%B3n&pu=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dsuyai-tv&pv=8.27.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=Suyai%20Televisi%C3%B3n%20-%20En%20vivo&tv=4.0.6&vb=1&vi=1&vl=90&wd=1159&abm=1&bwe=94016&cae=0&cct=0&ch=2&cst=19.2&cdid=player&dnt=unspecified&drm=0&ff=3400&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Fsignal.suyaitv.cl%2Flive%2F13%2Fplaylist.m3u8%3Fusername%3Ddemo%26password%3D001&pcp=24&pd=3&pdr=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dsur-tv&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=3420&tb=29.2&tt=0&vd=0&vh=1080&vs=0&vw=1920&sa=1742176865881
+#EXTINF:-1,Moni TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
+#EXTINF:-1,Terror TV
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-2079943487&e=s&n=1964189633195589&aid=eGDB2EujEeKZwiIACp8kUw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=wrvpo71os8di&i=0&lid=1e1w5l6dwt0g&lsa=read&mt=1&pbd=1&pbr=1&pgi=4ujw4f3bf7bx&ph=0&pii=0&pl=652&plc=1&pli=1oa7adt5kfd8&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=NeoTV%20-%20Terror%20TV&pu=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dterror-tv&pv=8.27.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=Terror%20TV%20-%20En%20vivo&tv=4.0.6&vb=0&vi=0.39&vl=90&wd=1159&abm=1&bwe=3231&cae=0&cct=0&ch=2&cst=25&cdid=player&dnt=unspecified&drm=0&ff=8280&fsm=0&l=0&lng=en&mk=hls&mu=https%3A%2F%2Ftv.streaming-chile.com%3A19360%2F8140%2F8140.m3u8&pcp=26&pd=3&pdr=https%3A%2F%2Fneotv.cl%2Fcanal%3Fslug%3Dmas-cine&plng=en&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=8290&tb=33.3&tt=0&vd=0&vh=1080&vs=0&vw=1920&sa=1742176956210
+#EXTINF:-1,LMS
+https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
+#EXTINF:-1,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1,Inasiva Media
+https://tv.invasivamedia.com/hls/live.m3u8
+#EXTINF:-1,Gen TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gentv/chunks.m3u8
+#EXTINF:-1,Gogoplay TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+#EXTINF:-1,Tl Estrella
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
